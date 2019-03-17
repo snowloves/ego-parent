@@ -1,5 +1,5 @@
 public class worldcount {
     public static void main(String[] args) {
-        System.out.println("worldcount python java");
+        System.out.println("worldcount python java scala");
     }
 }
